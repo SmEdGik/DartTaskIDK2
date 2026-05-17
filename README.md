@@ -5,8 +5,7 @@
 ```dart
 
 
-
-[06.05.2026 0:04] Zex: import 'package:flutter/material.dart';
+import 'package:flutter/material.dart';
 
 class Dog {
   String bark() {
@@ -6844,8 +6843,8 @@ ${service.getAll()}
             ),
           ),
         ),
-```
       ),
     );
+```
   }
 }
